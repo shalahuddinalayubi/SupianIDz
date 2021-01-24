@@ -6,4 +6,4 @@ I am an ordinary man who is stuck becoming a programmer accidentally. I am very 
 
 Currently working as a web developer and sysadmin in government agencies.
 
-<img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=supianidz&theme=default&show_icons=true">
+You can see the results of my public work on this profile page or on [@OctopyID](https://github.com/OctopyID).
